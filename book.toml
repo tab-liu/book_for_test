@@ -1,0 +1,6 @@
+[book]
+authors = ["Tab Liu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "book_for_test"
